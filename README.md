@@ -1,1 +1,1 @@
-# QR_CTF
+# Solved challenge QR read image
